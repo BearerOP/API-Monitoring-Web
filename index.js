@@ -24,7 +24,8 @@ const allowedOrigins = [
   "https://up-status-git-master-bearerops-projects.vercel.app",
   "https://up-status-bearerops-projects.vercel.app",
   "https://up-status-xi.vercel.app",
-  "https://up-status.onrender.com"
+  "https://up-status.onrender.com",
+  "https://avadhi.bearerop.tech"
 ];
 
 const corsOptions = {
